@@ -2,7 +2,6 @@
 🌠 I'm a Blockchain Developer focusing on Decentralized Finance (DeFi) and Non-Fungible Tokens (NFTs).<br>
 ⭐ Building blockchain solutions and smart contracts.<br>
 🪪 Studying Electrical and Electronic Engineering at the BRAC University.<br>
-💻 Skills: Solidity, Python; Ethereum, Uniswap, OpenSea, IPFS; ERC-20, ERC-721, ERC-1155.<br>
 🔗 Connect with me: [Email](mailto:seinsuha@gmail.com), [LinkedIn](https://www.linkedin.com/in/sesuha), [Upwork](https://www.upwork.com/freelancers/~012dfd69a49779de4c?mp_source=share), [GitHub](https://github.com/sesuha).
 
 # Tech Stack:
